@@ -1,0 +1,14 @@
+# ESCAPE SEQUESNCE CHARACTERS ARE THOSE WHICH ARE USED WITH \ THIS BACKSLASH
+
+
+#for new line
+"\n"
+
+#FOR Tab
+"\t"
+
+#FOR '
+"\'"
+
+ #FOR \
+"\\"
