@@ -1,3 +1,5 @@
+# program to print remainder when a is devided by b 
+
 a = 32
 b= 3
 
