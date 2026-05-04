@@ -16,3 +16,10 @@ while True:
 print("\n----- YOUR CART -----")
 for food in items:
     print(food)
+print("\n----- PRICES -----")
+for p in price:
+    print(f"${p:.2f}")
+print("\n----- TOTAL -----")
+for p in price:
+    total += p
+print(f"${total:.2f}")
